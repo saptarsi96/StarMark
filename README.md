@@ -1,4 +1,4 @@
-# PageLink
+# Pagelink
 
 https://saptarsi96.github.io/StarMark/
 
